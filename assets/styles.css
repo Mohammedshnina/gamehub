@@ -1,0 +1,5 @@
+body{background:#111;color:#eee;font-family:Arial;margin:0}
+header{text-align:center;padding:20px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;padding:20px}
+.card{text-decoration:none;color:#fff;background:#222;padding:20px;border-radius:10px;display:block}
+.card:hover{background:#333;transform:scale(1.03)}
